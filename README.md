@@ -1,2 +1,2 @@
 # Simple-Calculator-App-using-React
-calculator
+HTML , CSS , REACT
