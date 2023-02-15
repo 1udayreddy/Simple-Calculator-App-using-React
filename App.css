@@ -1,0 +1,30 @@
+button{
+  /* padding-inline: 25px; */
+  padding: 10px 10px;
+  background: linear-gradient( rgb(28, 28, 241) , rgb(240, 234, 234));
+/* display: flex; */
+margin-left: 20px;
+font-weight: bolder;
+font-size: 1rem;
+}
+
+input{
+  padding:10px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 4px;
+  background-color: white;
+  color: black;
+  font-size: large;
+  font-weight: bold;
+  border: none;
+  border-radius: 1rem;
+
+}
+input:hover{
+  border: none;
+  border-color: rgb(231, 240, 240);
+}
+body{
+  background:linear-gradient(orange, rgb(196, 181, 181));
+  opacity: 90%;
+}
